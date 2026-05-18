@@ -1,5 +1,15 @@
-# Introduction Website
+# ✨ Introduction Website
 
-## 🌐 Live Demo
+Simple responsive website built with HTML & CSS.
 
-[![Open Website](https://img.shields.io/badge/Open-Live_Demo-blue?style=for-the-badge)](https://darmayald.github.io/Introduction/)
+## 🚀 Live Preview
+
+[![Live Demo](https://img.shields.io/badge/View-Website-black?style=for-the-badge&logo=github)](https://darmayald.github.io/Introduction/)
+
+---
+
+## 🛠 Built With
+
+- HTML
+- CSS
+- JavaScript
